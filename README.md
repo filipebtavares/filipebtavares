@@ -32,7 +32,7 @@ Becoming a developer who can deliver great results wherever I go.<br></p>
   <img width="12" />
    <img src="https://devicon-website.vercel.app/api/javascript/original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-   <img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg" height="40" alt="sql  logo"  />
+   <img src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain.svg" height="40" alt="sql  logo"  />
   <img width="12" />
   
 </div>
