@@ -24,6 +24,10 @@ Becoming a developer who can deliver great results wherever I go.<br></p>
   <img width="12" />
    <img src="https://devicon-website.vercel.app/api/dot-net/plain-wordmark.svg" height="40" alt="asp net logo"  />
   <img width="12" />
+   <img src="https://devicon-website.vercel.app/api/dotnetcore/original.svg" height="40" alt="asp net logo"  />
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/visualstudio/plain.svg" height="40" alt="visual  logo"  />
+  <img width="12" />
  <img src="https://devicon-website.vercel.app/api/angularjs/original.svg" height="40" alt="angular logo"  />
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/html5/original.svg" height="40" alt="html logo"  />
