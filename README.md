@@ -22,9 +22,9 @@ Becoming a developer who can deliver great results wherever I go.<br></p>
 <div align="left">
   <img src="https://devicon-website.vercel.app/api/csharp/original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-   <img src="https://devicon-website.vercel.app/api/java/original.svg" height="40" alt="java logo"  />
+   <img src="https://devicon-website.vercel.app/api/dot-net/plain-wordmark.svg" height="40" alt="asp net logo"  />
   <img width="12" />
-   <img src="https://devicon-website.vercel.app/api/python/original.svg" height="40" alt="python logo"  />
+ <img src="https://devicon-website.vercel.app/api/angularjs/original.svg" height="40" alt="angular logo"  />
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/html5/original.svg" height="40" alt="html logo"  />
   <img width="12" />
@@ -32,7 +32,9 @@ Becoming a developer who can deliver great results wherever I go.<br></p>
   <img width="12" />
    <img src="https://devicon-website.vercel.app/api/javascript/original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-   <img src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain.svg" height="40" alt="sql  logo"  />
+   <img src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?color=%23FFFFFF" height="40" alt="sql  logo"  />
+  <img width="12" />
+   <img src="https://devicon-website.vercel.app/api/docker/original.svg" height="40" alt="docker  logo"  />
   <img width="12" />
   
 </div>
